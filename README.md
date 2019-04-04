@@ -1,4 +1,4 @@
-# 3.0project
+# Vue-cli3-demo
 
 ## Project setup
 ```
